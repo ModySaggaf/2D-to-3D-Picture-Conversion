@@ -7,7 +7,7 @@
 ![](Steps%20Pictures/1.%20Merge%20Command.jpg)
 
 
-## If the object contained more than one part, it must be ungroup by right clicking the object indicated by blue and choosing the ungrouped command indicated by red.
+## If the object contained more than one part, it must be ungrouped by right clicking the object indicated by blue and choosing the ungroup command indicated by red.
 ![](Steps%20Pictures/2.%20Ungroup%20Objects.jpg)
 
 

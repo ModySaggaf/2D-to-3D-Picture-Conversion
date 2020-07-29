@@ -23,5 +23,5 @@
 ![](Steps%20Pictures/5.%20Object%20Properties.jpg)
 
 
-## The same process was done for the all object paths and this is the final result.
+## The same process was done for the all object paths for 4 objects, and this is the final result.
 ![](Steps%20Pictures/6.%20Final%20Result.jpg)

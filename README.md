@@ -1,4 +1,4 @@
-# 2D-to-3D-Picture-Conversion
+# 2D-to-3D-Picture-Conversion-Using-Cinema-4D
 
 ## Firstly, the 2D pictures were converted to ai extension using https://convertio.co/ website.
 

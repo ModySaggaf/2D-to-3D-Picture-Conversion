@@ -3,15 +3,15 @@
 ## Firstly, the 2D pictures were converted to ai extension using https://convertio.co/ website.
 
 
-## Then, the ai files were imported in Cinema 4D using the Merge command.
+## Then, the ai files were imported in Cinema 4D using the "Merge" command.
 ![](Steps%20Pictures/1.%20Merge%20Command.jpg)
 
 
-## If the object contained more than one part, it must be ungrouped by right clicking the object indicated by blue and choosing the ungroup command indicated by red.
+## If the object contained more than one part, it must be ungrouped by right clicking the object indicated by blue and choosing the "Ungroup" command indicated by red.
 ![](Steps%20Pictures/2.%20Ungroup%20Objects.jpg)
 
 
-## After that, the Extrude command was chosen.
+## After that, the "Extrude" command was chosen.
 ![](Steps%20Pictures/3.%20Extrude%20Command.jpg)
 
 

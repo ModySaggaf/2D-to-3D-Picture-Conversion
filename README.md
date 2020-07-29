@@ -4,7 +4,7 @@
 
 
 ## Then, the ai files were imported in Cinema 4D using the Merge command.
-![](Steps%20Pictures/1.%20Merge%20Command.jpg)
+![](Steps Pictures/1.%20Merge%20Command.jpg)
 
 
 ## If the object contained more than one part, it must be ungrouped by right clicking the object undicated by blue and choosing the ungrouped command indicated by red.
